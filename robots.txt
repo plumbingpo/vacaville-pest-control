@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vacavillepestcontrolco.com/sitemap.xml
